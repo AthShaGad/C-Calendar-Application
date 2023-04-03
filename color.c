@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int shivadatta()
+int color()
 {
     int user = 0;
      char x[15] = "color ";
